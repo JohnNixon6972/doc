@@ -22,6 +22,7 @@ Run the following command at the root of your documentation (where mint.json is)
 mintlify dev
 ```
 
+
 ### 😎 Publishing Changes
 
 Changes will be deployed to production automatically after pushing to the default branch.
